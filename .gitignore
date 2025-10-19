@@ -1,0 +1,14 @@
+shell_env/
+*.pkl
+*.h5
+*.joblib
+*.csv
+*.zip
+*.dll
+*.pyd
+*.bin
+*.dat
+__pycache__/
+*.pyc
+*.log
+*.tmp
